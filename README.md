@@ -1,10 +1,28 @@
-<h3>Mucho gusto, soy Diana Magallanes</h3>
+<div align="center">
+<h3>Hi👋 I'm Diana Magallanes</h3> 
+<a href="https://www.linkedin.com/in/dianamagallanes/"><img src="https://user-images.githubusercontent.com/28024862/164951466-789f75a4-85e7-41e2-a12c-5e45b498abba.png" width="30" height="30"></a>
+<a href="https://dianamagallanes.pb.gallery/"><img src="https://icon-library.com/images/globe-icon-white/globe-icon-white-8.jpg" width="30" height="30"></a>
+</div>
 <hr>
 
-Entre los diferentes intereses que he tenido en mi vida la tecnología es el que se mantiene constante.
-> ¿será porque siempre puedes aprender algo nuevo?
+Very curious, so i'm always trying to learn something new.
 
-![Shocked Pikachu](https://slackmojis.com/emojis/5641-surprised-pikachu/image/1643514566/surprised-pikachu.png)
+*This is why tech it's like a match made in heaven for me 😎*
+
+
+
+```cs
+public void DianaMagallanes ()
+{
+    string [] currentWork = { "Cecati", "Seitsa Consultores" };
+    string [] preferredTech = { "C#", "ASP.NET", "MSSQL", "HTML", "CSS" };
+    string [] learning = { "Js", "NodeJs", "Japanese" };
+    string [] languages = { "Spanish", "English" };
+
+    Console.WriteLine("Hello world~ 🌎");
+}
+
+```
 
 
 <!---
